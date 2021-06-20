@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(236, 227, 227);
+  background-image: url("loog\ branca.png");
+  background-repeat: no-repeat;
+}
+
+#tudo {
+    align-items: center;
+}
+
+#texto{
+    margin-top: 50px;
+    position: relative;
+}
+
+

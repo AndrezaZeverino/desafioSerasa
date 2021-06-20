@@ -1,0 +1,38 @@
+body {
+  margin: 30px;
+  display: flex;
+  /* margin-left: 100px;
+    margin-right: 100px; */
+  font-size: Arial;
+  background-image: url("loog\ branca.png");
+  background-color: rgb(236, 227, 227);
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+#tudo {
+  width: 50%;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#logo {
+  margin-bottom: 30px;
+}
+
+#logo img {
+  height: 100px;
+  width: 150px;
+}
+
+#slogan {
+  margin-right: 10px;
+  margin-top: 40px;
+  width: 30%;
+  text-align: center;
+}
+
+#resultado {
+  color: #f76fd7;
+}

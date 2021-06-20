@@ -1,0 +1,37 @@
+body {
+  margin: 30px;
+  font-size: Arial;
+  background-color: rgb(236, 227, 227);
+}
+
+#logoBranca {
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+#tudo {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#logo img {
+  height: 100px;
+  width: 150px;
+}
+
+#formulario {
+  width: 100%;
+}
+
+label {
+  color: gray;
+}
+
+#btnConcluir{
+  border-radius: 10%;
+}
+
+#select{
+  border-radius: 10%;
+}
